@@ -6,4 +6,3 @@
 ### To access in 2D arrays:
 - grades[6][2]
 #### ![alt text](https://user-images.githubusercontent.com/76912120/207598873-50f2f443-d2f4-47c9-84b5-fd4fced551ae.jpg)
-
