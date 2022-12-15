@@ -35,7 +35,7 @@ int main()
 
 		We can use a direction-array style to write an elegant code
 
-		We will create a single array with the 2N+2 needed verifications
+		We will create a few arrays with the 2N+2 needed verifications
 		For every verification we need 4 values:
 			The starting point (r, c): we need the starting of each row (N), col (N), 2 Diagonals
 			The direction to move in it for N steps
